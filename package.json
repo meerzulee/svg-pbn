@@ -1,0 +1,16 @@
+{
+  "name": "svg-pbn",
+  "version": "1.0.0",
+  "description": "SVG Paint By Number Generator",
+  "main": "index.js",
+  "repository": "https://github.com/meerzulee/svg-pbn.git",
+  "author": "Meerzulee <meerzulee@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.0.16",
+    "@svgdotjs/svg.topoly.js": "^1.0.3",
+    "polylabel": "^1.1.0",
+    "svg-parser": "^2.0.4",
+    "svgdom": "^0.1.8"
+  }
+}
